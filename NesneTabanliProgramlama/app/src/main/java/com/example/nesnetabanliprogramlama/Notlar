@@ -1,0 +1,6 @@
+Interface* implements
+-gövdesi olmayan metodlardan oluşur.
+-class sınıf değildir.
+-public interface ile başlar.
+-interfaceler başka interface lerden türeyebilir fakat sınıflardan
+türeyemez.
